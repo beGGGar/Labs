@@ -1,0 +1,36 @@
+2023-07-07 01:53:38 INFO  
+add, ID = 1, 62900 
+2023-07-07 01:53:38 INFO  
+add, ID = 2, 6300 
+2023-07-07 01:53:38 INFO  
+add, ID = 3, 11200 
+2023-07-07 01:53:38 INFO  
+add, ID = 4, 3700 
+2023-07-07 01:53:38 INFO  
+add, ID = 5, 2800 
+2023-07-07 01:53:38 INFO  
+add, ID = 6, 2700 
+2023-07-07 01:53:38 INFO  
+add, ID = 7, 3700 
+2023-07-07 01:53:38 INFO  
+add, ID = 8, 2700 
+2023-07-07 01:53:38 INFO  
+add, ID = 9, 2500 
+2023-07-07 01:53:38 INFO  
+add, ID = 10, 2500 
+2023-07-07 01:53:38 INFO  
+remove, ID = 8, 11100 
+2023-07-07 01:53:38 INFO  
+
+Start program: 1:53:38
+Total Time = 112100
+Total Count = 11
+Total MedianTime = 10190
+AddTotal Time = 101000
+AddTotal Count = 10
+AddTotal MedianTime = 10100
+RemoveTotal Time = 11100
+RemoveTotal Count = 1
+RemoveTotal MedianTime = 11100
+Finish program: 1:53:38
+ 

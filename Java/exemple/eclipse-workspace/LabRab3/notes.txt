@@ -1,0 +1,6 @@
+Parent	aoVku	53	Female
+Student	BPKxv	33	Male	hHKhEevich	1.9178547
+Botanic	ndkBp	31	Female	aXKTnevna	0.7144335	1
+Cool_parent	wKUFM	26	Male	0
+Botanic	Igork	50	Male	Igorkevich	1.0	10
+Cool_parent	Igor	50	Male	100

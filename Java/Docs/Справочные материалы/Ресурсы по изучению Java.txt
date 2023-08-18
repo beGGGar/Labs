@@ -1,0 +1,59 @@
+Официальные от Oracle (Sun)
+
+
+Вся документация от Oracle 
+https://docs.oracle.com/javase/8/
+Структура компонентов платформы JavaSE 
+https://docs.oracle.com/javase/8/docs/
+Спецификация языка Java 
+http://docs.oracle.com/javase/specs/jls/se8/html/index.html
+Все стандартные классы Java SE 
+https://docs.oracle.com/javase/8/docs/api/overview-summary.html
+
+
+
+Русскоязычные
+
+Справочник - http://www.darkraha.com/rus/java/
+Блог статей - http://info.javarush.ru 
+Форум по программированию на Java - http://javatalks.ru
+Java + Android, справочник - http://metanit.com/java/android/
+Java + Android, блог - http://prologistic.com.ua 
+Форум по программированию - http://citforum.ru 
+Общие вопросы — https://habrahabr.ru
+
+
+
+
+Книги
+
+Java. Библиотека профессионала. Том 1. Основы. Кей С. Хорстманн, 2016 г. (JSE 8, 10-е изд.) 
+Java. Библиотека профессионала. Том 2. Расширенные средства программирования. Кей С. Хорстманн, Гари Корнелл, 2016 г. (JSE 7, 9-е изд.)
+Java 8. Руководство для начинающих. Герберт Шилдт. 2015 г. (Java EE 8)
+Библиотека профессионала. Java 2. Кей С. Хорстманн, Гари Корнелл, 2012 г. (JSE6, 8-е изд.)
+Философия Java. Брюс Эккель, 2016 г. (4-е изд.)
+Структуры данных и алгоритмы Java. Роберт Лафоре, 2016 г.
+
+
+
+
+Видеолекции
+
+https://www.lektorium.tv 
+Алексей Владыкин (2012, 2014), Георгий Корнеев (2013);
+https://www.youtube.com/playlist?list=PLB0276A0A62BDEF06 
+Юрий Ткач (2014)
+
+
+
+
+
+Англоязычные
+
+http://beginnersbook.com – разные языки в том числе  Java
+http://javarevisited.blogspot.ru — описаны сложные вещи
+http://www.java-examples.com — примеры
+http://www.java2s.com/Tutorial/ — примеры, сгруппированные по темам и объектам
+http://www.onjava.com — крупный каталог статей и новостей
+http://www.javaspecialists.eu — сборник заметок по практическим ситуациям
+http://www.theserverside.com/ — статьи и новости для опытных пользователей

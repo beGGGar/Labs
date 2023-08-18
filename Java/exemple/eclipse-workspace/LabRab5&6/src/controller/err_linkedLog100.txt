@@ -1,0 +1,614 @@
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 0, 23900
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 1, 15200
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 2, 15500
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 3, 16200
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 4, 15600
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 5, 18200
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 6, 17900
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 7, 18800
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 8, 17500
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 9, 20500
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 10, 16100
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 11, 21600
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 12, 34900
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 13, 17000
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 14, 21600
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 15, 15000
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 16, 15700
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 17, 18500
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 18, 17300
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 19, 17400
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 20, 17100
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 21, 17800
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 22, 17300
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 23, 21000
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 24, 19500
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 25, 22700
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 26, 13800
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 27, 15400
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 28, 18400
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 29, 16300
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 30, 20700
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 31, 18700
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 32, 23300
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 33, 16100
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 34, 15800
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 35, 16700
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 36, 17500
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 37, 16300
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 38, 17100
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 39, 17800
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 40, 46800
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 41, 35000
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 42, 15700
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 43, 19400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 44, 13900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 45, 10500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 46, 9900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 47, 11600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 48, 13800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 49, 22300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 50, 34900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 51, 17300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 52, 16100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 53, 14800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 54, 13800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 55, 14200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 56, 13700
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 57, 14600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 58, 13300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 59, 13600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 60, 14500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 61, 13500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 62, 14600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 63, 13300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 64, 12600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 65, 13600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 66, 14500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 67, 18900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 68, 16700
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 69, 21600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 70, 17800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 71, 14300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 72, 28000
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 73, 18600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 74, 15900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 75, 17000
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 76, 15300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 77, 15400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 78, 14800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 79, 14300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 80, 15200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 81, 15300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 82, 14400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 83, 21800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 84, 16800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 85, 17500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 86, 17500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 87, 18200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 88, 44900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 89, 14100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 90, 20800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 91, 16400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 92, 16600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 93, 14100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 94, 17100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 95, 14900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 96, 39800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 97, 16600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 98, 15500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 99, 35400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 85, 28000
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 7, 12900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 88, 15400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 88, 19200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 90, 15600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 27, 19900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 70, 21000
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 84, 21200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 4, 18500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 75, 22200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 52, 24800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 49, 23600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 72, 20500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 64, 20400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 41, 20700
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 8, 16600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 79, 16800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 5, 19100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 57, 19200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 0, 13700
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 25, 18300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 64, 16600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 9, 15900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 49, 26800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 2, 13100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 39, 22200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 23, 16300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 33, 21800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 40, 17000
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 58, 17200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 23, 22700
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 24, 19800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 37, 21000
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 0, 14900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 48, 19900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 29, 19700
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 27, 24100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 16, 21600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 17, 21200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 47, 17700
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 15, 18500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 7, 20600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 7, 21900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 54, 19900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 44, 17400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 44, 16800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 27, 43300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 7, 18800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 30, 21200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 37, 21700
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 21, 21100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 1, 20200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 18, 24800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 20, 45400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 16, 22100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 34, 19100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 26, 21500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 16, 27800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 1, 15100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 34, 16600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 37, 28000
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 4, 18000
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 9, 18400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 5, 17900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 5, 14500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 12, 17900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 28, 17200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 25, 26800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 8, 19100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 23, 20500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 25, 16400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 21, 20000
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 2, 15500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 12, 16900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 10, 17400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 4, 16800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 2, 17500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 21, 15300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 17, 15800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 15, 15200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 12, 17300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 14, 15200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 5, 14200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 12, 12200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 11, 11000
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 2, 12800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 6, 12800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 11, 11700
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 1, 13000
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 3, 22000
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 2, 20800
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 3, 20200
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 3, 15900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 1, 19600
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 4, 12400
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 1, 13300
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 1, 14900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 0, 10500
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 0, 12100
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 0, 11900
+дек. 16, 2022 4:38:23 PM model.CollectionCreator RunTimeLinked
+INFO: 
+Start program: 16:38:22
+
+Total Time = 3716800
+Total Count = 200
+Total MedianTime = 18584
+AddTotal Time = 1827000
+AddTotal Count = 100
+AddTotal MedianTime = 18270
+RemoveTotal Time = 1889800
+RemoveTotal Count = 100
+RemoveTotal MedianTime = 18898
+Finish program: 16:38:23

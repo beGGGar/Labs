@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="send_email">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/send_email.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

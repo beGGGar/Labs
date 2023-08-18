@@ -1,0 +1,75 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <iostream>
+
+using namespace std;
+
+char* AddStars(char* buff) {
+	char* str = new char[strlen(buff) + 7];
+	char stars[] = "***";
+	strcpy(str, stars);
+	strcat(str, buff);
+	strcat(str, stars);
+	return str;
+}
+int main() {
+	cout << "Задание 8\n";
+	const int k = 400;
+	char buff[k];
+	char* s1, * s2, * s3;
+	
+
+	scanf("%s", buff);
+	//s1 = AddStars(buff);
+	//cout << s1;
+	fseek(stdin, 0, SEEK_END);
+	scanf("%399[^\t\n]s", buff);
+	for (int i = 0; i < strlen(buff); i++)cout << buff[i];
+	//cout << buff;
+	//delete s1;
+	//printf("%s", s1);
+
+	//free(s1);
+	//free(s2);
+	//free(s3);
+
+
+	/*const int N = 5;
+	short Ms[N];
+	long Ml[N];
+	long long Mq[N];
+	float Mfs[N];
+	double Mfl[N];
+	for (int i = 0; i < N; i++) {
+		Ms[i] = 0xDEAD;
+		Ml[i] = 0xC0CAC01A;
+		Mq[i] = 0xC0FFEE11BEA7;
+		Mfs[i] = 7 / 5;
+		Mfl[i] = 7 / 5;
+	}*/
+
+	//cout << "Десятичный вывод" << endl;
+	//for (short i : Ms) { printf("%hd\n", i); }
+	//cout << endl;
+	//for (long i : Ml) { printf("%ld\n", i); }
+	//cout << endl;
+	//for (long long i : Ms) { printf("%lld\n", i); }	
+	//cout << endl;
+	//for (float i : Ms) { printf("%.2f\n", i); }
+	//cout << endl;
+	//for (double i : Ms) { printf("%.2f\n", i); }
+
+	//cout << endl << "x16 вывод" << endl;
+	//for (short i : Ms) { printf("%hx\n", i); }
+	//cout << endl;
+	//for (long i : Ml) { printf("%lx\n", i); }
+	//cout << endl;
+	//for (long long i : Ms) { cout << hex << i << endl; }//{ printf("%llx\n", i); }
+	//cout << endl;
+	//for (float i : Ms) { printf("%e\n", i); }
+	//cout << endl;
+	//for (double i : Ms) { printf("%e\n", i); }
+
+	///system("pause");
+	return 0;
+}

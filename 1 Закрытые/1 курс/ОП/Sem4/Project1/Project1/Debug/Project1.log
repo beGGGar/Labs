@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Sem4\Project1\Project1\Source.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Sem4\Project1\Project1\Source.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Sem4\Project1\Project1\Source.cpp(57,27): warning C4101: 'a': unreferenced local variable
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Sem4\Project1\Project1\Source.cpp(42,6): warning C4101: 'st': unreferenced local variable
+  Project1.vcxproj -> C:\Users\vdmoi\Desktop\Study\LABS\ОП\Sem4\Project1\Debug\Project1.exe

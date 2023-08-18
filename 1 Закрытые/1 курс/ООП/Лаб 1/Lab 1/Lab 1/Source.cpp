@@ -1,0 +1,263 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <iostream>
+#include <locale.h>
+#include <stdio.h>
+#include <iomanip>
+#include <Windows.h>
+#define max_bread 20
+using namespace std;
+
+typedef struct Base {
+	char* fam;		//Название товара
+	double price;	// цена
+	int quant;		// количество
+	int num;		// номер секции
+}bread;
+
+void DialogInterface();
+int addBread(bread* product, int n, int max); //Добавить новый элемент
+void printList(bread* product, int n);       //распечатать таблицу товаров
+void findBread(bread* product, int n);        //найти хлеб
+void filterNum(bread* product, int n);        //отфильтровать хлеб по секциям
+void saveList(bread* product, int n);         // сохранение
+int loadList(bread* product);				//загрузка из базы
+void sortBread(bread* product, int n);		//сортировка продуктов по уменьшению количества 
+
+int main() {
+	setlocale(LC_ALL, "Rus");
+	SetConsoleCP(1251); // Ввод с консоли в кодировке
+	SetConsoleOutputCP(1251); // Вывод на консоль в кодировке
+	int num = 0, c;
+
+	bread* BB;
+	BB = new bread[max_bread];
+
+	FILE* file;
+	if ((file = fopen("data.txt", "r+")) == NULL)
+		cout << "Файла нет, первый запуск." << endl;
+	else {
+		num = loadList(BB);
+	}
+
+
+	DialogInterface();
+	while (true) { // цикл с ключами
+		cin >> c;
+		switch (c) {
+		case 0: 
+			//кидало ошибку при случайном вводе буквы. костыль зарешал
+			break;
+		case 1: // добавление товара
+			addBread(BB, num, max_bread);
+			num++;
+			break;
+		case 2:
+			printList(BB, num);
+			break;
+		case 3:
+			findBread(BB, num);
+			break;
+		case 4:
+			filterNum(BB, num);
+			break;
+		case 5:
+			sortBread(BB, num);
+			break;
+		case 6:
+			saveList(BB, num);
+			return 0;
+		default:
+			cout << "Неверный запрос, повторите попытку..." << endl;
+			c = 0;
+		}
+	}
+	cout << "Выполнение прервано... Произведен откат базы данных." << endl;
+	return 0;
+}
+
+void DialogInterface() {
+	//интерфейс
+	cout << "Добавить новый элемент................1" << endl;
+	cout << "Распечатать базу товаров..............2" << endl;
+	cout << "Поиск товара по названию..............3" << endl;
+	cout << "Фильтр по номеру секции...............4" << endl;
+	cout << "Сортировать по уменьшению количества..5" << endl;
+	cout << "Выход из программы....................6" << endl; 
+	cout << "......................................." << endl;
+	cout << "Введите номер функции: " << endl;
+};
+
+int addBread(bread* product, int n, int max) {
+	//добавление хлеба в массив
+	char buff[4000] = {}, c = 'a';
+	bread* R = product;
+	R = R + n;
+
+	if (n + 1 > max) {
+		cout << "Список переполнен" << endl;
+		return 0;
+	}
+
+	cout << "Название товара: "; 
+
+	int i = 0;
+	c = getchar();
+	while (true)
+	{
+		c = getchar();
+		if (c == '\n') break;
+		buff[i++] = c;
+	}
+	//fflush(stdin);
+	//cin >> buff;
+	R->fam = new char[strlen(buff) + 1];
+	strcpy(R->fam, buff);
+
+	cout << "Цена:            "; cin >> R->price; 
+	cout << "Количество:      "; cin >> R->quant;
+	cout << "Номер секции:    "; cin >> R->num;
+	cout << endl << "Введите номер функции: ";
+};
+
+void printList(bread* product, int n){
+	//вывод таблицы значений
+	char buff[80] = {};
+	bread* R = product;
+	// cout красивее всяких printf
+	cout << setw(30) << "Название товара" << setw(10) << "цена" << setw(15) << "количество" << setw(15) << "номер секции" << endl;
+	cout << "--------------------------------------------------" << endl;
+	for (int i = 0; i < n; R++, i++) {
+		cout << setw(30) << R->fam << setw(10) << R->price << setw(15) << R->quant << setw(15) << R->num << endl;
+	}
+	cout << "--------------------------------------------------" << endl;
+	cout << "Количество записей: " << n << endl;
+	cout << "Введите номер функции: ";
+}
+
+void findBread(bread* product, int n) {
+	char buff[80] = {}, c;
+	bread* R = product;
+
+	cout << "Введите название товара: "; 
+
+	int i = 0;
+	c = getchar();
+	while (true)
+	{
+		c = getchar();
+		if (c == '\n') break;
+		buff[i++] = c;
+	}
+	//cin >> buff;
+
+	cout << setw(30) << "Название товара" << setw(10) << "цена" << setw(15) << "количество" << setw(15) << "номер секции" << endl;
+	//пробежка по массиву и вывод найденого хлеба
+	for (R; R < product + n; R++) {
+		if (strcmp(buff, R->fam) == 0) {
+			cout << setw(30) << R->fam << setw(10) << R->price << setw(15) << R->quant << setw(15) << R->num << endl;
+		}
+	}
+	cout << "Введите номер функции: " << endl;
+};
+
+void filterNum(bread* product, int n) {
+	//то же самое что и поиск но по секции
+	int id, i = 0;
+	bread* R = product;
+
+	cout << "Введите желаемую секцию: "; cin >> id;
+	cout << setw(20) << "Название товара" << setw(10) << "цена" << setw(10) << "количество" << setw(15) << "номер секции" << endl;
+	for (R; R < product + n; R++) {
+		if (id == R->quant) {
+			cout << setw(20) << R->fam << setw(10) << R->price << setw(10) << R->num << setw(15) << R->quant << endl;
+			i = 1; // для проверки на наличие кокого либо товара
+		}
+	}
+	if (i == 0)cout << "Товаров в данной секции нет" << endl;
+	cout << "Введите номер функции: " << endl;
+}
+
+void saveList(bread* product, int n) {
+	//сохранение хлеба
+	bread* R = product;
+	char buff[4000] = {};
+
+	FILE* file;
+	file = fopen("data.txt", "w");
+
+	fprintf(file, "%d\n", n);
+	for (R; R < product + n; R++) {
+		strcpy(buff, R->fam);
+		for (int i = 0; i < strlen(buff); i++) {
+			fprintf(file, "%c", buff[i]);
+		}
+		//fprintf(file, "%s\n", R->fam);
+		fprintf(file, "\n%f\n", R->price);
+		fprintf(file, "%d\n", R->quant);
+		fprintf(file, "%d\n", R->num);
+	}
+	fclose(file);
+};
+
+int loadList(bread* product) {
+	//чтение хлеба
+	bread* R = product;
+	int n = 0, quant, num, i;
+	char buff[4000] = {}, c = ' ';
+	float price;
+	FILE* file;
+	file = fopen("data.txt", "r");
+
+	fscanf(file, "%d", &n);
+	for (R; R < product + n; R++) {
+		fscanf(file, "%s", buff);
+		R->fam = new char[strlen(buff) + 1];
+		strcpy(R->fam, buff);
+
+		fscanf(file, "%f", &price);
+		R->price = price;
+		fscanf(file, "%d", &quant);
+		R->quant = quant;
+		fscanf(file, "%d", &num);
+		R->num = num;
+	}
+	
+	fclose(file);
+	return n;
+}
+
+void sortBread(bread* product, int n) {
+	//сортировка по количеству
+	bread* R = product;
+	char buff[4000] = {};
+	double price;
+	int quant, num;
+	//банальная пузырьковая сортировка
+	for (int i = 0; i < n; i++) {
+		for (int j = 0; j < n - 1; j++) {
+			if ((R + j)->quant > (R + j + 1)->quant) {
+
+				strcpy(buff, (R + j)->fam);
+				price = (R + j)->price;
+				quant = (R + j)->quant;
+				num = (R + j)->num;
+
+				delete (R + j)->fam;
+				(R + j)->fam = new char[strlen((R + j + 1)->fam) + 1];
+				strcpy((R + j)->fam, (R + j + 1)->fam);
+				(R + j)->price = (R + j + 1)->price;
+				(R + j)->quant = (R + j + 1)->quant;
+				(R + j)->num = (R + j + 1)->num;
+
+				//занес данные во второй элемент
+				delete (R + j + 1)->fam;
+				(R + j + 1)->fam = new char[strlen(buff) + 1];
+				strcpy((R + j + 1)->fam, buff);
+				(R + j + 1)->price = price;
+				(R + j + 1)->quant = quant;
+				(R + j + 1)->num = num;
+			}
+		}
+	}
+	cout << "Сортировка прошла успешно!" << endl << "Введите новме функции: ";
+}

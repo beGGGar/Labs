@@ -1,0 +1,4 @@
+Parent	IfzZa	51	Male
+Student	DwCme	54	Male	VqBUbevich	2.329798
+Botanic	piJNI	61	Male	ioWbDevich	0.46284315	1
+Cool_parent	VHcQf	22	Male	0

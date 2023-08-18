@@ -1,0 +1,6 @@
+clear; close all; clc; 
+f = sym('0');
+g = sym('1-y^2)');
+X = [-5, 5]; n = 50;
+rf = 'r--'; rg = 'g';
+MV_1f(f, g, X, n, rf, rg);

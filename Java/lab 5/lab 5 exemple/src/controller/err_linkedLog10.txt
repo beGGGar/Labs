@@ -1,0 +1,74 @@
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 0, 1506100
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 1, 15700
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 2, 12900
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 3, 12900
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 4, 27700
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 5, 16000
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 6, 14400
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 7, 19600
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 8, 18700
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+add, ID = 9, 15800
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 3, 40900
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 2, 16200
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 3, 13900
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 1, 13800
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 3, 16500
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 3, 15700
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 0, 13600
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 0, 31700
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 0, 14900
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+remove, ID = 0, 16100
+дек. 16, 2022 4:38:22 PM model.CollectionCreator RunTimeLinked
+INFO: 
+Start program: 16:38:22
+
+Total Time = 1853100
+Total Count = 20
+Total MedianTime = 92655
+AddTotal Time = 1659800
+AddTotal Count = 10
+AddTotal MedianTime = 165980
+RemoveTotal Time = 193300
+RemoveTotal Count = 10
+RemoveTotal MedianTime = 19330
+Finish program: 16:38:22

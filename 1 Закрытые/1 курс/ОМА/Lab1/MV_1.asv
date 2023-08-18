@@ -1,0 +1,5 @@
+clc; clear;
+x = 2.35768;
+t=sin(x);
+format long
+f=t/(2

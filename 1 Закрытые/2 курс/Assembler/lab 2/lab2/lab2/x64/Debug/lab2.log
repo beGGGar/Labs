@@ -1,0 +1,3 @@
+﻿  lab2.cpp
+C:\Users\vdmoi\Рабочий стол\Study\LABS\Ассемблер и ЭВМ\lab 2\lab2\lab2\lab2.cpp(49,16): warning C4477: "printf": в строке форматирования "%02hhX" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "double"
+  lab2.vcxproj -> C:\Users\vdmoi\Рабочий стол\Study\LABS\Ассемблер и ЭВМ\lab 2\lab2\x64\Debug\lab2.exe

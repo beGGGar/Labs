@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab5\Lab5\Source.cpp(12,19): error C2228: left of '.length' must have class/struct/union
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab5\Lab5\Source.cpp(12,19): message : type is 'char *'
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab5\Lab5\Source.cpp(43,21): warning C4018: '<': signed/unsigned mismatch

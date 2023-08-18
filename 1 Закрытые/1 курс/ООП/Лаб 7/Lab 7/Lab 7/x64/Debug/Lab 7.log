@@ -1,0 +1,11 @@
+﻿  Lab 7.cpp
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 7\Lab 7\Lab 7\storage.h(91,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 7\Lab 7\Lab 7\storage.h(93,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 7\Lab 7\Lab 7\storage.h(95,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 7\Lab 7\Lab 7\storage.h(97,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 7\Lab 7\Lab 7\storage.h(99,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 7\Lab 7\Lab 7\storage.h(124,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 7\Lab 7\Lab 7\storage.h(126,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 7\Lab 7\Lab 7\storage.h(128,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 7\Lab 7\Lab 7\Lab 7.cpp(37,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab 7.vcxproj -> C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 7\Lab 7\x64\Debug\Lab 7.exe

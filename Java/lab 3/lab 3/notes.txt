@@ -1,0 +1,8 @@
+Model.Student, Name:jrRt, Age:39, sex:not_stated, MidleMark:4.0, parent name:XuzE
+Model.Botany, Name:DEXp, Age:84, sex:man, MidleMark:2.0, parent name:RmMb
+Model.Parent, Name:svXa, Age:50, sex:not_stated
+Model.OverParent, Name:EscI, Age:45, sex:man, money_for_kid:0.0
+Model.Student, Name:ynJM, Age:92, sex:woman, MidleMark:4.0, parent name:TeGg
+Model.Botany, Name:RTxF, Age:32, sex:not_stated, MidleMark:3.0, parent name:xUCh
+Model.Parent, Name:qWYt, Age:51, sex:not_stated
+Model.OverParent, Name:nSrN, Age:53, sex:woman, money_for_kid:0.0

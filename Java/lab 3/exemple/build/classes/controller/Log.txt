@@ -1,0 +1,158 @@
+дек. 12, 2022 3:21:45 PM controller.Main main
+INFO: 15:21:45 Read from notes.txt
+дек. 12, 2022 3:21:45 PM controller.Main main
+INFO: 15:21:45 Read from notes.txt
+дек. 12, 2022 3:21:45 PM controller.Main main
+INFO: 15:21:45 Read from notes.txt
+дек. 12, 2022 3:21:45 PM controller.Main main
+INFO: 15:21:45 Read from notes.txt
+дек. 12, 2022 3:21:45 PM controller.Main main
+INFO: 15:21:45 Read from notes.txt
+дек. 12, 2022 3:21:45 PM controller.Main main
+INFO: 15:21:45 Read from notes.txt
+дек. 12, 2022 3:23:22 PM controller.Main main
+INFO: 15:23:22 Read from notes.txt
+дек. 12, 2022 3:23:22 PM controller.Main main
+INFO: 15:23:22 Read from notes.txt
+дек. 12, 2022 3:23:22 PM controller.Main main
+INFO: 15:23:22 Read from notes.txt
+дек. 12, 2022 3:23:22 PM controller.Main main
+INFO: 15:23:22 Read from notes.txt
+дек. 12, 2022 3:23:22 PM controller.Main main
+INFO: 15:23:22 Read from notes.txt
+дек. 12, 2022 3:23:22 PM controller.Main main
+INFO: 15:23:22 Read from notes.txt
+дек. 12, 2022 3:23:22 PM controller.Main main
+INFO: 15:23:22 Write to notes.txt
+дек. 12, 2022 3:23:22 PM controller.Main main
+INFO: 15:23:22 End 
+дек. 12, 2022 3:23:48 PM controller.Main main
+INFO: 15:23:48 Read from notes.txt
+дек. 12, 2022 3:23:48 PM controller.Main main
+INFO: 15:23:48 Read from notes.txt
+дек. 12, 2022 3:23:48 PM controller.Main main
+INFO: 15:23:48 Read from notes.txt
+дек. 12, 2022 3:23:48 PM controller.Main main
+INFO: 15:23:48 Read from notes.txt
+дек. 12, 2022 3:23:48 PM controller.Main main
+INFO: 15:23:48 Read from notes.txt
+дек. 12, 2022 3:23:48 PM controller.Main main
+INFO: 15:23:48 Read from notes.txt
+дек. 12, 2022 3:25:24 PM controller.Main main
+INFO: 15:25:24 Read from notes.txt
+дек. 12, 2022 3:25:24 PM controller.Main main
+INFO: 15:25:24 Read from notes.txt
+дек. 12, 2022 3:25:24 PM controller.Main main
+INFO: 15:25:24 Read from notes.txt
+дек. 12, 2022 3:25:24 PM controller.Main main
+INFO: 15:25:24 Read from notes.txt
+дек. 12, 2022 3:25:24 PM controller.Main main
+INFO: 15:25:24 Read from notes.txt
+дек. 12, 2022 3:25:24 PM controller.Main main
+INFO: 15:25:24 Read from notes.txt
+дек. 12, 2022 3:25:36 PM controller.Main main
+INFO: 15:25:36 Login: admin
+дек. 12, 2022 3:33:14 PM controller.Main main
+INFO: 15:33:14 Read from notes.txt
+дек. 12, 2022 3:33:14 PM controller.Main main
+INFO: 15:33:14 Read from notes.txt
+дек. 12, 2022 3:33:14 PM controller.Main main
+INFO: 15:33:14 Read from notes.txt
+дек. 12, 2022 3:33:14 PM controller.Main main
+INFO: 15:33:14 Read from notes.txt
+дек. 12, 2022 3:33:14 PM controller.Main main
+INFO: 15:33:14 Read from notes.txt
+дек. 12, 2022 3:33:14 PM controller.Main main
+INFO: 15:33:14 Read from notes.txt
+дек. 12, 2022 3:33:23 PM controller.Main main
+INFO: 15:33:23 Login: admin
+дек. 12, 2022 3:33:23 PM controller.Main main
+INFO: 15:33:23 Write to notes.txt
+дек. 12, 2022 3:33:23 PM controller.Main main
+INFO: 15:33:23 End 
+дек. 12, 2022 3:34:47 PM controller.Main main
+INFO: 15:34:47:96339700 Read from notes.txt
+дек. 12, 2022 3:34:47 PM controller.Main main
+INFO: 15:34:47:160343500 Read from notes.txt
+дек. 12, 2022 3:34:47 PM controller.Main main
+INFO: 15:34:47:162344000 Read from notes.txt
+дек. 12, 2022 3:34:47 PM controller.Main main
+INFO: 15:34:47:164344500 Read from notes.txt
+дек. 12, 2022 3:34:47 PM controller.Main main
+INFO: 15:34:47:166344400 Read from notes.txt
+дек. 12, 2022 3:34:47 PM controller.Main main
+INFO: 15:34:47:167349500 Read from notes.txt
+дек. 12, 2022 3:35:00 PM controller.Main main
+INFO: 15:35:0:64008600:64008600 Login: admin
+дек. 12, 2022 3:35:00 PM controller.Main main
+INFO: 15:35:0:67012300 Write to notes.txt
+дек. 12, 2022 3:35:00 PM controller.Main main
+INFO: 15:35:0:68011200 End 
+дек. 12, 2022 3:38:16 PM controller.Main main
+INFO: 15:38:16:798595900 Read from notes.txt
+дек. 12, 2022 3:38:16 PM controller.Main main
+INFO: 15:38:16:858601400 Read from notes.txt
+дек. 12, 2022 3:38:16 PM controller.Main main
+INFO: 15:38:16:860602500 Read from notes.txt
+дек. 12, 2022 3:38:16 PM controller.Main main
+INFO: 15:38:16:862602800 Read from notes.txt
+дек. 12, 2022 3:38:16 PM controller.Main main
+INFO: 15:38:16:863601500 Read from notes.txt
+дек. 12, 2022 3:38:16 PM controller.Main main
+INFO: 15:38:16:864602500 Read from notes.txt
+июн. 13, 2023 2:26:54 PM controller.Main main
+INFO: 14:26:54:165657700 Read from notes.txt
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 0, 450200
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 1, 7600
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 2, 6900
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 3, 6600
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 4, 6300
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 5, 5100
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 6, 4700
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 7, 5100
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 8, 6200
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 9, 6200
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+remove, ID = 1, 12600
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+
+Start program: 14:27:09
+Total Time = 517500
+Total Count = 11
+Total MedianTime = 47045
+AddTotal Time = 504900
+AddTotal Count = 10
+AddTotal MedianTime = 50490
+RemoveTotal Time = 12600
+RemoveTotal Count = 1
+RemoveTotal MedianTime = 12600
+Finish program: 14:27:09
+
+июн. 13, 2023 2:27:09 PM controller.Main main
+INFO: 14:27:9:101887900:101887900 Login: admin
+июн. 13, 2023 2:27:09 PM controller.Main main
+INFO: 14:27:9:113701400 Write to notes.txt
+июн. 13, 2023 2:27:09 PM controller.Main main
+INFO: 14:27:9:114715700 End 

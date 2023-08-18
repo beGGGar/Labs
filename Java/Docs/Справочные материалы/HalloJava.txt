@@ -1,0 +1,43 @@
+/**
+* Copyright 2016 «MIEE». 
+* "Hello world" program
+*/
+package study;
+
+import java.util.Scanner; //Импортируем библиотеку для ввода данных с консоли
+
+/**
+ * <p>Тестовый класс для изучения Java</p>
+ */
+public class hallo {
+	
+/**
+* Объявляем метод main с которого стартует програмам
+* @param args преременные командной строки
+*/
+	public static void main (String args []) {
+		
+		System.out.println ("Hello!");
+//Выводим Hello с переносом строки
+		
+		Scanner scan = new Scanner(System.in); 
+//Создание объекта Scanner для приема данных с консоли
+ 
+		System.out.print ("Введите ответ > "); 		
+//Вывод сообщения приглашением ввода в одной сроке. Вводим - "Hallo Java"
+
+String str = scan.nextLine(); 				
+//Выполняем чтение и запись данных с консоли в строковую переменную str
+
+str += "!";
+//Добавляем "!" в конец строки str
+
+System.out.println ("Ваш ответ: \t"+str);
+//Выводим "Ваш ответ: Hallo Yava!"
+
+scan.close();
+//Закрываем чтение из входного потока System.in
+
+}
+
+}

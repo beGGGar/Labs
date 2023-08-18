@@ -1,0 +1,8 @@
+D:\Study\LABS\C# labs\Lab 5.1\Lab 5.1\obj\Debug\Lab 5.1.csproj.AssemblyReference.cache
+D:\Study\LABS\C# labs\Lab 5.1\Lab 5.1\obj\Debug\Lab 5.1.csproj.SuggestedBindingRedirects.cache
+D:\Study\LABS\C# labs\Lab 5.1\Lab 5.1\obj\Debug\Lab 5.1.csproj.CoreCompileInputs.cache
+D:\Study\LABS\C# labs\Lab 5.1\Lab 5.1\bin\Debug\Lab 5.1.exe.config
+D:\Study\LABS\C# labs\Lab 5.1\Lab 5.1\bin\Debug\Lab 5.1.exe
+D:\Study\LABS\C# labs\Lab 5.1\Lab 5.1\bin\Debug\Lab 5.1.pdb
+D:\Study\LABS\C# labs\Lab 5.1\Lab 5.1\obj\Debug\Lab 5.1.exe
+D:\Study\LABS\C# labs\Lab 5.1\Lab 5.1\obj\Debug\Lab 5.1.pdb

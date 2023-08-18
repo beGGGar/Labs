@@ -1,0 +1,6 @@
+июн. 15, 2023 10:39:55 PM Model.HumanCollection saveToFile
+INFO: 22:39:55:536712400 Write to notes.txt
+июн. 15, 2023 10:39:55 PM Controller.Main main
+INFO: 22:39:55:540714500 End 
+июн. 15, 2023 11:06:18 PM Controller.Main main
+INFO: 23:6:18:911814900 End 

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab6\Lab6\Lab6\Source.cpp(97,19): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab6\Lab6\Lab6\Source.cpp(30,27): warning C4101: 'a': unreferenced local variable
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab6\Lab6\Lab6\Source.cpp(99,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab6.vcxproj -> C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab6\Lab6\Debug\Lab6.exe

@@ -1,0 +1,52 @@
+
+/*
+Ввод одной строки
+*/
+import java.util.Scanner;
+
+Scanner scan = new Scanner(System.in); 	//Создаем объект сканера входного потока System.in	 
+	String str = "";
+		
+	do {
+		if( str.isEmpty() ) { 
+			System.out.print ("Введите ответ > "); 
+		}
+		else {
+			System.out.println ("Нужно ввести > Java > "); 
+		}				
+		str = scan.nextLine(); //Вводит строку при нажатии Enter.
+			
+		} while ( !str.contains("Java") );
+
+        str += "!";									        
+        System.out.println ("Ваш ответ \t"+str);
+
+        scan.close(); //Закрываем объект сканера. Закрывает также доступ к входлному потоку, поэтому должен ставиться после всех операций ввода
+
+/*
+Ввод нескольких строк с помощью буфера
+*/
+
+import java.io.*;
+
+        str = "";
+        String control = "";
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); //Создание объекта BufferedReader связанного с потоком System.in
+        System.out.println ("Введите текстовые строки. Признак конца ввода строка - fin");
+        
+        do{
+        	control = br.readLine();
+        	str += control + "\n";        	
+        	System.out.println(str);        	
+        } while( !control.equals("fin") );
+
+/*
+Ввод символов
+*/
+
+        char c;
+        System.out.println ("Введите символы. Признак конца ввода символ - '.'");
+        do{
+        	c = (char) br.read(); //Поскольку метод read возвращает тип данных String преобразовываем в тип данных char
+        	System.out.print(c);        	
+        } while( c != '.' ); 

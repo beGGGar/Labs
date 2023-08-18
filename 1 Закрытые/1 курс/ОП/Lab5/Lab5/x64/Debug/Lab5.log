@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab5\Lab5\Source.cpp(58,40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab5\Lab5\Source.cpp(171,33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab5\Lab5\Source.cpp(177,14): warning C4101: 'max': unreferenced local variable
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab5\Lab5\Source.cpp(177,9): warning C4101: 'min': unreferenced local variable
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab5\Lab5\Source.cpp(19): warning C4172: returning address of local variable or temporary: rez
+  Lab5.vcxproj -> C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab5\x64\Debug\Lab5.exe

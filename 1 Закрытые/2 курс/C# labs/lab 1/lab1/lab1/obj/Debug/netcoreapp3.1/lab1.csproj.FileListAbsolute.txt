@@ -1,0 +1,28 @@
+H:\C#\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+H:\C#\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+H:\C#\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+H:\C#\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+H:\C#\lab1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+H:\C#\lab1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+H:\C#\lab1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+H:\C#\lab1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+H:\C#\lab1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+H:\C#\lab1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+H:\C#\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+H:\C#\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+H:\C#\lab1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\vdmoi\Рабочий стол\Study\LABS\C# labs\lab 1\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache

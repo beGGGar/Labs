@@ -1,0 +1,192 @@
+дек. 12, 2022 6:39:59 AM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 0, 9700
+дек. 12, 2022 6:39:59 AM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 1, 6500
+дек. 12, 2022 6:39:59 AM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 2, 12300
+дек. 12, 2022 6:39:59 AM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 3, 7500
+дек. 12, 2022 6:39:59 AM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 4, 9400
+дек. 12, 2022 6:39:59 AM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 5, 10900
+дек. 12, 2022 6:39:59 AM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 6, 10600
+дек. 12, 2022 6:39:59 AM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 7, 7200
+дек. 12, 2022 6:39:59 AM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 8, 7800
+дек. 12, 2022 6:39:59 AM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 9, 8000
+дек. 12, 2022 6:39:59 AM model.CollectionCreator RunTimeList
+INFO: 
+remove, ID = 1, 13200
+дек. 12, 2022 6:39:59 AM model.CollectionCreator RunTimeList
+INFO: 
+
+Start program: 6:39:59
+Total Time = 103100
+Total Count = 11
+Total MedianTime = 9372
+AddTotal Time = 89900
+AddTotal Count = 10
+AddTotal MedianTime = 8990
+RemoveTotal Time = 13200
+RemoveTotal Count = 1
+RemoveTotal MedianTime = 13200
+Finish program: 6:39:59
+
+дек. 12, 2022 3:39:08 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 0, 968700
+дек. 12, 2022 3:39:08 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 1, 8600
+дек. 12, 2022 3:39:08 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 2, 6200
+дек. 12, 2022 3:39:08 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 3, 7700
+дек. 12, 2022 3:39:08 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 4, 7300
+дек. 12, 2022 3:39:08 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 5, 8200
+дек. 12, 2022 3:39:08 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 6, 8300
+дек. 12, 2022 3:39:08 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 7, 7200
+дек. 12, 2022 3:39:08 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 8, 9200
+дек. 12, 2022 3:39:08 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 9, 7900
+дек. 12, 2022 3:39:08 PM model.CollectionCreator RunTimeList
+INFO: 
+remove, ID = 8, 15100
+дек. 12, 2022 3:39:08 PM model.CollectionCreator RunTimeList
+INFO: 
+
+Start program: 15:39:08
+Total Time = 1054400
+Total Count = 11
+Total MedianTime = 95854
+AddTotal Time = 1039300
+AddTotal Count = 10
+AddTotal MedianTime = 103930
+RemoveTotal Time = 15100
+RemoveTotal Count = 1
+RemoveTotal MedianTime = 15100
+Finish program: 15:39:08
+
+июн. 12, 2023 6:21:13 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 0, 10600
+июн. 12, 2023 6:21:13 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 1, 4701
+июн. 12, 2023 6:21:13 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 2, 3401
+июн. 12, 2023 6:21:13 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 3, 2899
+июн. 12, 2023 6:21:13 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 4, 2000
+июн. 12, 2023 6:21:13 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 5, 2100
+июн. 12, 2023 6:21:13 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 6, 2700
+июн. 12, 2023 6:21:13 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 7, 3101
+июн. 12, 2023 6:21:13 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 8, 2200
+июн. 12, 2023 6:21:13 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 9, 2100
+июн. 12, 2023 6:21:13 PM model.CollectionCreator RunTimeList
+INFO: 
+remove, ID = 8, 4801
+июн. 12, 2023 6:21:13 PM model.CollectionCreator RunTimeList
+INFO: 
+
+Start program: 18:21:13
+Total Time = 40603
+Total Count = 11
+Total MedianTime = 3691
+AddTotal Time = 35802
+AddTotal Count = 10
+AddTotal MedianTime = 3580
+RemoveTotal Time = 4801
+RemoveTotal Count = 1
+RemoveTotal MedianTime = 4801
+Finish program: 18:21:13
+
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 0, 450200
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 1, 7600
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 2, 6900
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 3, 6600
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 4, 6300
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 5, 5100
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 6, 4700
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 7, 5100
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 8, 6200
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+add, ID = 9, 6200
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+remove, ID = 1, 12600
+июн. 13, 2023 2:27:09 PM model.CollectionCreator RunTimeList
+INFO: 
+
+Start program: 14:27:09
+Total Time = 517500
+Total Count = 11
+Total MedianTime = 47045
+AddTotal Time = 504900
+AddTotal Count = 10
+AddTotal MedianTime = 50490
+RemoveTotal Time = 12600
+RemoveTotal Count = 1
+RemoveTotal MedianTime = 12600
+Finish program: 14:27:09
+

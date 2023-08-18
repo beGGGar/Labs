@@ -1,0 +1,6 @@
+﻿  lab 1.cpp
+C:\Users\vdmoi\Рабочий стол\Study\LABS\Ассемблер и ЭВМ\lab 1\lab 1\lab 1\lab 1.cpp(11,8): warning C4476: "scanf": неизвестный символ поля типа "m" в описателе формата
+C:\Users\vdmoi\Рабочий стол\Study\LABS\Ассемблер и ЭВМ\lab 1\lab 1\lab 1\lab 1.cpp(11,15): warning C4474: "scanf" : для строки формата передано слишком много аргументов
+C:\Users\vdmoi\Рабочий стол\Study\LABS\Ассемблер и ЭВМ\lab 1\lab 1\lab 1\lab 1.cpp(11,15): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\vdmoi\Рабочий стол\Study\LABS\Ассемблер и ЭВМ\lab 1\lab 1\lab 1\lab 1.cpp(8,7): warning C4101: buff: неиспользованная локальная переменная
+  lab 1.vcxproj -> C:\Users\vdmoi\Рабочий стол\Study\LABS\Ассемблер и ЭВМ\lab 1\lab 1\Debug\lab 1.exe

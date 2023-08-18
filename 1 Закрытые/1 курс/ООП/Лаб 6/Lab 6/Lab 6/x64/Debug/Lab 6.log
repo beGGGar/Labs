@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\IntCheck.h(76,10): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage.h(61,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage.h(63,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage.h(65,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage.h(67,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage.h(69,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage.h(266,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage.h(268,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage.h(270,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage1.h(24,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage1.h(30,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage1.h(85,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage1.h(87,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage1.h(91,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\main.cpp(48,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage.h(198): warning C4715: storage::findBread: значение возвращается не при всех путях выполнения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage.h(171): warning C4715: storage::filterNum: значение возвращается не при всех путях выполнения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\Lab 6\storage1.h(201): warning C4715: storage1::findBread: значение возвращается не при всех путях выполнения
+  Lab 6.vcxproj -> C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6\x64\Debug\Lab 6.exe

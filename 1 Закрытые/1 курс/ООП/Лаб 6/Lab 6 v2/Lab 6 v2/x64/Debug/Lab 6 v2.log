@@ -1,0 +1,250 @@
+﻿  common.cpp
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(8,9): error C3646: name: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(8,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(19,9): error C3646: getName: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(19,16): error C2059: синтаксическая ошибка: (
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(19,18): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(22,15): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.cpp(7,16): error C2039: "getName": не является членом "common".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(7,7): message : см. объявление "common"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.cpp(7,35): error C2065: name: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.cpp(14,14): error C2511: void common::setName(std::string): перегруженная функция-член не найдена в "common"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(7,7): message : см. объявление "common"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.cpp(14,38): error C2065: name: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.cpp(18,14): error C2039: "getName": не является членом "common".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(7,7): message : см. объявление "common"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.cpp(18,2): error C2660: common::setName: функция не принимает 1 аргументов
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(22,7): message : см. объявление "common::setName"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.cpp(18,2): message : при попытке сопоставить список аргументов "()"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.cpp(24,2): error C2065: name: необъявленный идентификатор
+  date1.cpp
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(8,9): error C3646: month: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(8,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(13,18): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(15,9): error C3646: getMonth: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(15,17): error C2059: синтаксическая ошибка: (
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(15,19): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(16,16): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.cpp(11,2): error C2660: date1::setMonth: функция не принимает 1 аргументов
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(16,7): message : см. объявление "date1::setMonth"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.cpp(11,2): message : при попытке сопоставить список аргументов "(char [4000])"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.cpp(17,2): error C2065: month: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.cpp(22,15): error C2039: "getMonth": не является членом "date1".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(6,7): message : см. объявление "date1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.cpp(23,9): error C2065: month: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.cpp(26,13): error C2511: void date1::setMonth(std::string): перегруженная функция-член не найдена в "date1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(6,7): message : см. объявление "date1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.cpp(27,2): error C2065: month: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.cpp(30,8): error C2511: date1::date1(int,std::string,int): перегруженная функция-член не найдена в "date1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(6,7): message : см. объявление "date1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.cpp(30,52): error C2352: "date1::setDay": для вызова нестатической функции-члена требуется объект
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(17,7): message : см. объявление "date1::setDay"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.cpp(30,66): error C2660: date1::setMonth: функция не принимает 1 аргументов
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(16,7): message : см. объявление "date1::setMonth"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.cpp(30,66): message : при попытке сопоставить список аргументов "(std::string)"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.cpp(30,84): error C2352: "date1::setYear": для вызова нестатической функции-члена требуется объект
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(18,7): message : см. объявление "date1::setYear"
+  main.cpp
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(8,9): error C3646: name: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(8,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(19,9): error C3646: getName: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(19,16): error C2059: синтаксическая ошибка: (
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(19,18): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(22,15): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,17): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,17): error C2433: ostream: "friend" не разрешается для объявлений данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,17): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,56): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,16): error C2433: istream: "friend" не разрешается для объявлений данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,55): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,1): error C2086: int ostream: переопределение
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,9): message : см. объявление "ostream"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,29): error C2473: operator <<: выглядит как определение функции, но без списка параметров.
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,31): error C2065: out: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,45): error C2065: St: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,36): error C2275: "storage": ожидается выражение вместо типа
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,21): error C2440: инициализация: невозможно преобразовать "initializer list" в "int &"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,21): message : Тип ссылки не может инициализироваться значением
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,1): error C2086: int istream: переопределение
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,9): message : см. объявление "istream"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,29): error C2473: operator >>: выглядит как определение функции, но без списка параметров.
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,31): error C2065: in: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,44): error C2065: St: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,35): error C2275: "storage": ожидается выражение вместо типа
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,21): error C2440: инициализация: невозможно преобразовать "initializer list" в "int &"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,21): message : Тип ссылки не может инициализироваться значением
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(8,9): error C3646: month: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(8,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(13,18): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(15,9): error C3646: getMonth: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(15,17): error C2059: синтаксическая ошибка: (
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(15,19): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(16,16): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(28,16): error C2872: istream: неоднозначный символ
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,9): message : может быть "int istream"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iosfwd(235,7): message : или       "std::istream"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(28,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(28,16): error C2433: istream: "friend" не разрешается для объявлений данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(28,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(28,56): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(29,16): error C2872: ostream: неоднозначный символ
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,9): message : может быть "int ostream"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iosfwd(236,7): message : или       "std::ostream"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(29,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(29,16): error C2433: ostream: "friend" не разрешается для объявлений данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(29,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(29,57): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(31,10): error C2365: >>: переопределение; предыдущим определением было "переменная данных"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,10): message : см. объявление ">>"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(32,10): error C2365: <<: переопределение; предыдущим определением было "переменная данных"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,10): message : см. объявление "<<"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\main.cpp(26,1): fatal  error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
+  storage.cpp
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(8,9): error C3646: name: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(8,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(19,9): error C3646: getName: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(19,16): error C2059: синтаксическая ошибка: (
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(19,18): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(22,15): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,17): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,17): error C2433: ostream: "friend" не разрешается для объявлений данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,17): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,56): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,16): error C2433: istream: "friend" не разрешается для объявлений данных
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,55): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,1): error C2086: int ostream: переопределение
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,9): message : см. объявление "ostream"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,29): error C2473: operator <<: выглядит как определение функции, но без списка параметров.
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,31): error C2065: out: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,45): error C2065: St: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,36): error C2275: "storage": ожидается выражение вместо типа
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,21): error C2440: инициализация: невозможно преобразовать "initializer list" в "int &"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,21): message : Тип ссылки не может инициализироваться значением
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,1): error C2086: int istream: переопределение
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,9): message : см. объявление "istream"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,29): error C2473: operator >>: выглядит как определение функции, но без списка параметров.
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,31): error C2065: in: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,44): error C2065: St: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,35): error C2275: "storage": ожидается выражение вместо типа
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,21): error C2440: инициализация: невозможно преобразовать "initializer list" в "int &"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,21): message : Тип ссылки не может инициализироваться значением
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,8): error C2872: ostream: неоднозначный символ
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,9): message : может быть "int ostream"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iosfwd(236,7): message : или       "std::ostream"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,1): error C2086: int ostream: переопределение
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,9): message : см. объявление "ostream"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,29): error C2872: ostream: неоднозначный символ
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(37,9): message : может быть "int ostream"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iosfwd(236,7): message : или       "std::ostream"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,29): error C2473: operator <<: выглядит как определение функции, но без списка параметров.
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,10): error C2374: <<: переопределение; множественная инициализация
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,10): message : см. объявление "<<"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,31): error C2065: out: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,45): error C2065: St: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,36): error C2275: "storage": ожидается выражение вместо типа
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,49): error C2059: синтаксическая ошибка: {
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,49): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(12,49): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,8): error C2872: istream: неоднозначный символ
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,9): message : может быть "int istream"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iosfwd(235,7): message : или       "std::istream"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,1): error C2086: int istream: переопределение
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,9): message : см. объявление "istream"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,29): error C2872: istream: неоднозначный символ
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(38,9): message : может быть "int istream"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iosfwd(235,7): message : или       "std::istream"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,29): error C2473: operator >>: выглядит как определение функции, но без списка параметров.
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,10): error C2374: >>: переопределение; множественная инициализация
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(42,10): message : см. объявление ">>"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,31): error C2065: in: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,44): error C2065: St: необъявленный идентификатор
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,35): error C2275: "storage": ожидается выражение вместо типа
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,48): error C2059: синтаксическая ошибка: {
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,48): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(18,48): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(58,29): error C2872: <<: неоднозначный символ
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.h(41,10): message : может быть "int &<<"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(58,29): message : или       "<<"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage.cpp(58,29): fatal  error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
+  storage1.cpp
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(8,9): error C3646: month: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(8,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(13,18): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(15,9): error C3646: getMonth: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(15,17): error C2059: синтаксическая ошибка: (
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(15,19): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(16,16): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(8,9): error C3646: name: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(8,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(19,9): error C3646: getName: неизвестный спецификатор переопределения
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(19,16): error C2059: синтаксическая ошибка: (
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(19,18): error C2238: непредвиденные лексемы перед ";"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(22,15): error C2061: синтаксическая ошибка: идентификатор "string"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(6,47): error C2039: "month": не является членом "date1".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(6,7): message : см. объявление "date1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(27,4): error C2660: common::setName: функция не принимает 1 аргументов
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(22,7): message : см. объявление "common::setName"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(27,4): message : при попытке сопоставить список аргументов "(char [4000])"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(37,24): error C2039: "getName": не является членом "storage1".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(8,7): message : см. объявление "storage1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(37,144): error C2039: "getMonth": не является членом "date1".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(6,7): message : см. объявление "date1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(59,9): error C2661: date1::date1: нет перегруженной функции, принимающей 3 аргументов
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(59,9): message : при попытке сопоставить список аргументов "(int, char [3], int)"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(89,29): error C2039: "getMonth": не является членом "date1".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(6,7): message : см. объявление "date1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(89,7): error C2660: date1::setMonth: функция не принимает 1 аргументов
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(16,7): message : см. объявление "date1::setMonth"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(89,7): message : при попытке сопоставить список аргументов "()"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(91,16): error C2039: "getName": не является членом "storage1".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(8,7): message : см. объявление "storage1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(91,2): error C2660: common::setName: функция не принимает 1 аргументов
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(22,7): message : см. объявление "common::setName"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(91,2): message : при попытке сопоставить список аргументов "()"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(102,29): error C2039: "getName": не является членом "storage1".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(8,7): message : см. объявление "storage1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(102,161): error C2039: "getMonth": не является членом "date1".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(6,7): message : см. объявление "date1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(124,23): error C2039: "getName": не является членом "storage1".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(8,7): message : см. объявление "storage1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(152,33): error C2039: "getName": не является членом "storage1".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.h(8,7): message : см. объявление "storage1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(152,17): warning C4473: "fprintf": передано недостаточно аргументов для строки формата
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(152,17): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(152,17): message : отсутствующий вариативный аргумент "1" требуется для строки форматирования "%s"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(154,69): error C2039: "getMonth": не является членом "date1".
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(6,7): message : см. объявление "date1"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(154,17): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "int"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(154,17): warning C4313: fprintf: конфликт "%s" в строке формата с аргументом 2 типа "int"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(154,17): warning C4473: "fprintf": передано недостаточно аргументов для строки формата
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(154,17): message : заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 2
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(154,17): message : отсутствующий вариативный аргумент "3" требуется для строки форматирования "%d"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(184,10): error C2660: common::setName: функция не принимает 1 аргументов
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\common.h(22,7): message : см. объявление "common::setName"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(184,10): message : при попытке сопоставить список аргументов "(char [4000])"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(188,16): error C2660: date1::setMonth: функция не принимает 1 аргументов
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\date1.h(16,7): message : см. объявление "date1::setMonth"
+C:\Users\vdmoi\Рабочий стол\Study\LABS\1 курс\ООП\Лаб 6\Lab 6 v2\Lab 6 v2\storage1.cpp(188,16): message : при попытке сопоставить список аргументов "(char [4000])"
+  Создание кода...

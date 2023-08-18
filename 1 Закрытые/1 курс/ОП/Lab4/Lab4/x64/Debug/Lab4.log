@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab4\Lab4\Source.cpp(28,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab4\Lab4\Source.cpp(35,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab4\Lab4\Source.cpp(68,36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab4\Lab4\Source.cpp(134,36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab4\Lab4\Source.cpp(123): warning C4172: returning address of local variable or temporary: res
+  Lab4.vcxproj -> C:\Users\vdmoi\Desktop\Study\LABS\ОП\Lab4\x64\Debug\Lab4.exe

@@ -1,0 +1,5 @@
+﻿  lab 1.cpp
+C:\Users\vdmoi\Рабочий стол\Study\LABS\Ассемблер и ЭВМ\lab 1\lab 1\lab 1\lab 1.cpp(19,14): warning C4101: s2: неиспользованная локальная переменная
+C:\Users\vdmoi\Рабочий стол\Study\LABS\Ассемблер и ЭВМ\lab 1\lab 1\lab 1\lab 1.cpp(19,8): warning C4101: s1: неиспользованная локальная переменная
+C:\Users\vdmoi\Рабочий стол\Study\LABS\Ассемблер и ЭВМ\lab 1\lab 1\lab 1\lab 1.cpp(19,20): warning C4101: s3: неиспользованная локальная переменная
+  lab 1.vcxproj -> C:\Users\vdmoi\Рабочий стол\Study\LABS\Ассемблер и ЭВМ\lab 1\lab 1\x64\Debug\lab 1.exe
