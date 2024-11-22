@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\LABS\\\u041E\u0422\u0438\u041A\\OTIC_lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2EC1D63-F65F-4F52-98FF-C6C8BB11FE43}|OTIC_lab2\\OTIC_lab2.vcxproj|D:\\Study\\LABS\\\u041E\u0422\u0438\u041A\\OTIC_lab2\\OTIC_lab2\\OTIC_lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2EC1D63-F65F-4F52-98FF-C6C8BB11FE43}|OTIC_lab2\\OTIC_lab2.vcxproj|solutionrelative:OTIC_lab2\\OTIC_lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OTIC_lab2.cpp",
+              "DocumentMoniker": "D:\\Study\\LABS\\\u041E\u0422\u0438\u041A\\OTIC_lab2\\OTIC_lab2\\OTIC_lab2.cpp",
+              "RelativeDocumentMoniker": "OTIC_lab2\\OTIC_lab2.cpp",
+              "ToolTip": "D:\\Study\\LABS\\\u041E\u0422\u0438\u041A\\OTIC_lab2\\OTIC_lab2\\OTIC_lab2.cpp",
+              "RelativeToolTip": "OTIC_lab2\\OTIC_lab2.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAiwJ0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T09:48:26.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

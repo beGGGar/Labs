@@ -1,0 +1,5 @@
+com\mc\Controller\Converter.class
+com\mc\Controller\Parser.class
+com\mc\mapcoverage\MapCoverage.class
+com\mc\Controller\Filter.class
+com\mc\Controller\Tools.class

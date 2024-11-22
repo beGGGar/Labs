@@ -1,0 +1,215 @@
+окт. 20, 2024 9:37:07 PM Controller.AppStates authorization
+INFO: 21:37:7:473314500:473314500 Login: name
+окт. 20, 2024 9:39:53 PM Controller.AppStates authorization
+INFO: 21:39:53:850275300:850275300 Login: name
+окт. 20, 2024 9:39:57 PM Controller.AppStates appStop
+INFO: 21:39:57:560257600 End 
+окт. 20, 2024 9:40:58 PM Controller.AppStates authorization
+INFO: 21:40:58:693417100:693417100 Login: name
+окт. 20, 2024 9:41:00 PM Controller.AppStates appStop
+INFO: 21:41:0:950149300 End 
+окт. 20, 2024 9:41:00 PM Controller.AppStates appStop
+INFO: 21:41:0:955306700 End 
+окт. 20, 2024 9:44:10 PM Controller.AppStates authorization
+INFO: 21:44:10:400250900:400250900 Login: name
+окт. 20, 2024 9:44:15 PM Controller.AppStates appStop
+INFO: 21:44:15:333747800 End 
+окт. 20, 2024 9:44:15 PM Controller.AppStates appStop
+INFO: 21:44:15:339267400 End 
+окт. 20, 2024 9:46:36 PM Controller.AppStates authorization
+INFO: 21:46:36:836709300:836709300 Login: name
+окт. 20, 2024 9:46:43 PM Controller.AppStates appStop
+INFO: 21:46:43:762470800 End 
+окт. 20, 2024 9:46:43 PM Controller.AppStates appStop
+INFO: 21:46:43:766460800 End 
+окт. 20, 2024 9:47:25 PM Controller.AppStates authorization
+INFO: 21:47:25:184381400:184381400 Login: name
+окт. 20, 2024 9:47:31 PM Controller.AppStates appStop
+INFO: 21:47:31:489273300 End 
+окт. 20, 2024 9:47:31 PM Controller.AppStates appStop
+INFO: 21:47:31:493127900 End 
+окт. 20, 2024 9:48:11 PM Controller.AppStates authorization
+INFO: 21:48:11:863219900:863219900 Login: name
+окт. 20, 2024 9:48:16 PM Controller.AppStates appStop
+INFO: 21:48:16:40871600 End 
+окт. 20, 2024 9:48:16 PM Controller.AppStates appStop
+INFO: 21:48:16:44863500 End 
+окт. 20, 2024 9:52:33 PM Controller.AppStates authorization
+INFO: 21:52:33:454285400:454285400 Login: name
+окт. 20, 2024 9:52:36 PM Controller.AppStates appStop
+INFO: 21:52:36:361096700 End 
+окт. 20, 2024 9:52:36 PM Controller.AppStates appStop
+INFO: 21:52:36:370749100 End 
+окт. 20, 2024 9:57:48 PM Controller.AppStates authorization
+INFO: 21:57:48:295217900:295217900 Login: name
+окт. 20, 2024 9:57:54 PM Controller.AppStates appStop
+INFO: 21:57:54:545754000 End 
+окт. 20, 2024 9:57:54 PM Controller.AppStates appStop
+INFO: 21:57:54:564434200 End 
+окт. 20, 2024 10:00:10 PM Controller.AppStates authorization
+INFO: 22:0:10:210839900:210839900 Login: name
+окт. 20, 2024 10:00:15 PM Controller.AppStates appStop
+INFO: 22:0:15:536526300 End 
+окт. 20, 2024 10:00:15 PM Controller.AppStates appStop
+INFO: 22:0:15:545250200 End 
+окт. 20, 2024 10:00:32 PM Controller.AppStates authorization
+INFO: 22:0:32:846525800:846525800 Login: name
+окт. 20, 2024 10:00:38 PM Controller.AppStates appStop
+INFO: 22:0:38:630526300 End 
+окт. 20, 2024 10:00:38 PM Controller.AppStates appStop
+INFO: 22:0:38:642078100 End 
+окт. 20, 2024 10:01:17 PM Controller.AppStates authorization
+INFO: 22:1:17:434186900:434186900 Login: name
+окт. 20, 2024 10:01:22 PM Controller.AppStates appStop
+INFO: 22:1:22:319977200 End 
+окт. 20, 2024 10:01:40 PM Controller.AppStates authorization
+INFO: 22:1:40:825036900:825036900 Login: name
+окт. 20, 2024 10:01:45 PM Controller.AppStates appStop
+INFO: 22:1:45:977024700 End 
+окт. 20, 2024 10:02:34 PM Controller.AppStates authorization
+INFO: 22:2:33:974992700:974992700 Login: name
+окт. 20, 2024 10:02:37 PM Controller.AppStates appStop
+INFO: 22:2:37:855562800 End 
+окт. 20, 2024 10:02:45 PM Controller.AppStates authorization
+INFO: 22:2:45:605995300:605995300 Login: name
+окт. 20, 2024 10:02:50 PM Controller.AppStates appStop
+INFO: 22:2:50:106411100 End 
+окт. 20, 2024 10:03:20 PM Controller.AppStates authorization
+INFO: 22:3:20:1061100:1061100 Login: name
+окт. 20, 2024 10:03:24 PM Controller.AppStates appStop
+INFO: 22:3:24:15637000 End 
+окт. 20, 2024 10:04:12 PM Controller.AppStates authorization
+INFO: 22:4:12:606134900:606134900 Login: name
+окт. 20, 2024 10:04:15 PM Controller.AppStates appStop
+INFO: 22:4:15:64278900 End 
+окт. 20, 2024 10:04:26 PM Controller.AppStates authorization
+INFO: 22:4:26:69297400:69297400 Login: name
+окт. 20, 2024 10:04:33 PM Controller.AppStates appStop
+INFO: 22:4:33:338464800 End 
+окт. 20, 2024 10:05:17 PM Controller.AppStates authorization
+INFO: 22:5:17:572027500:572027500 Login: name
+окт. 20, 2024 10:05:27 PM Controller.AppStates appStop
+INFO: 22:5:27:182240600 End 
+окт. 20, 2024 10:11:10 PM Controller.AppStates appStart
+INFO: 22:11:10:636565600:636565600 App Started
+окт. 20, 2024 10:12:51 PM Controller.AppStates appStart
+INFO: 22:12:51:80718200:80718200 App Started
+окт. 20, 2024 10:14:21 PM Controller.AppStates appStart
+INFO: 22:14:21:60081000:60081000 App Started
+окт. 20, 2024 10:15:53 PM Controller.AppStates appStart
+INFO: 22:15:53:939513100:939513100 App Started
+окт. 20, 2024 10:19:14 PM Controller.AppStates appStart
+INFO: 22:19:14:422731000:422731000 App Started
+22:21:47:540966200:540966200 App Started
+22:21:57:155374100:155374100 App Started
+22:31:30:99449300:99449300 App Started
+22:31:34:609323700:609323700 Login: name
+22:32:54:579610300:579610300 App Started
+22:32:58:918145100:918145100 Login: name
+22:33:17:468966800 End 
+22:35:16:935563000:935563000 App Started
+22:35:21:94253000:94253000 Login: name
+22:46:53.133909800 App Started
+23:53:49.109079300 App Started
+23:53:51.951512 App Started
+00:14:22.636596400 App Started
+00:16:05.285044800 App Started
+00:17:38.454566300 App Started
+00:18:10.611895600 App Started
+00:19:32.711880900 App Started
+00:19:47.615152500 App Started
+01:26:36.599787200 App Started
+07:03:03.058649900 App Started
+10:16:22.789894600 App Started
+10:16:26:268465500:268465500 Login: name
+
+10:16:56:284529200 End 
+12:38:57.285382 App Started
+12:39:4:582437700:582437700 Login: name
+
+05:29:13.035790400 App Started
+5:29:19:185302300:185302300 Login: name
+05:30:50.009988500 App Started
+5:30:54:962404600:962404600 Login: name
+05:37:16.072336300 App Started
+5:37:20:406666100:406666100 Login: name
+05:55:53.589511500 App Started
+5:56:0:921646100:921646100 Login: name
+06:00:38.319649200 App Started
+6:0:42:940578200:940578200 Login: name
+06:03:50.100984600 App Started
+6:3:54:235842600:235842600 Login: name
+09:26:51.054739800 App Started
+09:57:46.950549900 App Started
+10:01:18.199096900 App Started
+10:1:25:590368400:590368400 Login: name
+10:03:33.547070500 App Started
+10:3:38:33832600:33832600 Login: name
+10:05:34.819545700 App Started
+10:12:29.005672800 App Started
+10:13:54.584059200 App Started
+10:14:13.994568200 App Started
+10:18:40.610562100 App Started
+10:20:04.700844 App Started
+10:21:23.967113100 App Started
+10:22:40.651856500 App Started
+10:24:04.223657600 App Started
+10:26:55.860914600 App Started
+10:29:56.143418200 App Started
+10:30:29.526170100 App Started
+10:31:35.601676500 App Started
+10:38:38.423743500 App Started
+10:39:05.142694400 App Started
+10:41:05.848262700 App Started
+10:42:55:12252600:12252600 Guest_coming
+10:42:55:48243100 End 
+10:50:30.486288900 App Started
+10:51:32.226992900 App Started
+10:55:22.069982400 App Started
+10:57:09.264478900 App Started
+10:58:31.307430200 App Started
+10:58:43.559912600 App Started
+11:03:41.450429400 App Started
+11:03:57.250785500 App Started
+11:05:11.469949700 App Started
+11:12:22.536957100 App Started
+11:12:44.343123900 App Started
+11:15:26.206054400 App Started
+11:19:27.096062200 App Started
+11:21:29.269469200 App Started
+11:25:03.603271700 App Started
+11:25:42.199310100 App Started
+11:25:51.196944700 App Started
+11:26:09.414842300 App Started
+11:57:54.789068800 App Started
+11:58:10.685347100 App Started
+12:18:16.101957400 App Started
+12:19:00.932163700 App Started
+12:24:21.909609300 App Started
+12:31:05.679115400 App Started
+12:31:41.773852200 App Started
+12:31:57.510981200 App Started
+12:34:21.932669 App Started
+12:37:01.596198300 App Started
+12:37:45.202654200 App Started
+13:42:39.516331700 App Started
+13:43:40.758725300 App Started
+13:44:31.896384400 App Started
+13:44:43:536999900:536999900 Login: name
+13:49:40.702974900 App Started
+13:49:45:898572900:898572900 Login: name
+13:52:15.713420100 App Started
+13:52:20:226885700:226885700 Login: name
+13:54:31.334411900 App Started
+13:54:37:20878900:20878900 Failed loggin attempt
+13:54:41:392324400:392324400 Login: name
+13:55:55.940989800 App Started
+13:56:2:622263600:622263600 Failed loggin attempt
+13:56:5:264902600:264902600 Login: name
+13:59:14.706593200 App Started
+13:59:22:193595400:193595400 Failed loggin attempt
+13:59:24:306950600:306950600 Login: name
+14:01:50.685571100 App Started
+14:1:55:94044200:94044200 Login: name
+17:24:06.411183700 App Started
+17:24:15:925416300:925416300 Login: name

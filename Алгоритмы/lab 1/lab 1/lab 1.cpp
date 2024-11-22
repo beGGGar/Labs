@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿#define _CRT_SECURE_NO_WARNINGS
+#include <iostream>
 using namespace std;
 
 void print(int* mass, int n);
@@ -13,12 +14,12 @@ int main()
 	int n1 = 1000, n2 = 4000, n3 = 6000;
     int* mass;
 
+	//простая сортировка 1000, 4000, 6000 элементов
 	mass = massGenerator(n1);
+	//print(mass, n1);
 	mass = SimpleInsertSort(mass, n1);
+	//print(mass, n1);
 	cout << n1 << endl;
-	/*for (int i = 0; i < n1; i++) {
-		cout << mass[i] << " ";
-	}*/
 	delete mass;
 
 	mass = massGenerator(n2);
@@ -31,6 +32,7 @@ int main()
 	cout << n3 << endl;
 	delete mass;
 
+	//сортировка Шелла
 	n1 = 2000, n2 = 5000, n3 = 6800;
 	mass = massGenerator(n1);
 	mass = ShellSort(mass, n1);
@@ -46,22 +48,35 @@ int main()
 	mass = ShellSort(mass, n3);
 	cout << n3 << endl;
 	
+	//интерполяционный поиск
 	system("pause");
 	cout << endl << "Found" << endl;
-	int needed, i = -1;
+	int needed = -1, i = -1;
+
+	print(mass, 100);
 	while (true) {
-         cout << "Input num >0 and <100000: "; cin >> needed;
+		cout << "Input num >0 and <100000: ";
+		cin >> needed;
+		while (!cin || needed < 0) {
+			cout << "Incorrect input. Try again: ";
+			cin.clear();
+			cin.ignore(numeric_limits<streamsize>::max(), '\n');
+			cin >> needed;
+		}
+          
 		 i = InterpolationSearch(mass, n3, needed);
 		 if (i == -1) {
 			 cout << "No element in mass" << endl;
 			 continue;
 		 }
-		 else if (i == -2) break;
+		 if (i == -2) break;
 		 else cout << "Element " << mass[i] << " was found on " << i << " place" << endl;
 	}
+
 	delete mass;
 	return 0;
 }
+
 
 void print(int* mass, int n) {
 	for (int i = 0; i < n; i++) {
@@ -69,6 +84,7 @@ void print(int* mass, int n) {
 	}
 	cout << endl;
 }
+
 
 int* massGenerator(int n) {
 	int* mass = new int[n];
@@ -78,6 +94,8 @@ int* massGenerator(int n) {
 	}
 	return mass;
 }
+
+
 //простая вставка
 int* SimpleInsertSort(int* mass, int n) {
 	int buff;
@@ -93,6 +111,8 @@ int* SimpleInsertSort(int* mass, int n) {
 	}
 	return mass;
 }
+
+
 //метод шелла
 int* ShellSort(int* mass, int n) {
 	int d = n, buff, det;
@@ -110,6 +130,7 @@ int* ShellSort(int* mass, int n) {
 		if (d == 1 && det == 0)return mass;
 	}
 }
+
 
 //интерполяционный поиск
 int InterpolationSearch(int* mass, int n, int needed) {

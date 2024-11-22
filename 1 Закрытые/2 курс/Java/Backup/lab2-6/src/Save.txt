@@ -1,0 +1,8 @@
+Student	ppnh	nrXx	52	woman	4.0
+Botany	NfNq	OthQ	59	man	1.0	10.0
+Parent	FSMA	HNMT	39	None
+CoolParent	RgKG	tunC	81	None	0.0
+Student	nsha	Beek	45	woman	0.0
+Botany	QpvY	cLeF	85	None	0.0	1.0
+Parent	vLGe	BqsV	71	None
+CoolParent	wjcU	fUKI	19	None	0.0

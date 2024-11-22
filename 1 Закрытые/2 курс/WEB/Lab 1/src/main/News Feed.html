@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<HTML lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>MSL</title>
+        <!--Полное назавние my sick leave-->
+        <link href="/src/CSS/styles.css">
+        <link href="/src/CSS/NavStyles.css">
+        
+    </head>
+    <body>
+        <div id="mySidenav" class="sidenav">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>        
+            <a href="Personal page.html">Главная</a>
+            <a href="News Feed.html">Страница 1</a>
+            <a href="#">Страница 2</a> 
+        </div>
+        <link rel="import" href="Side Navigate.html">
+        <span style="font-size:30px;cursor:pointer" onclick="openNav()">☰ open</span>
+        <div class="news-feed">
+            <!-- Первый пост -->
+            <article class="news-item">
+                <h2>Заголовок первого поста</h2>
+                <p>Текст первого поста...</p>
+            </article>
+    
+            <!-- Второй пост -->
+            <article class="news-item">
+                <h2>Заголовок второго поста</h2>
+                <img src="\src\img\scrinshot.png" alt="Картинка к посту">
+                <p>Текст второго поста...</p>
+            </article>
+        </div>
+        <script>
+            var link = document.querySelector('link[rel=import]');
+            var content = link.import.querySelector('#nav');
+            document.body.appendChild(content.cloneNode(true));
+          </script>
+    </body>
+</HTML> 

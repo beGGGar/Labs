@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>My Website</title>
+    <link rel="stylesheet" href="/src/navigate/NavStyles.css">
+</head>
+<body>
+    <div id="mySidenav" class="sidenav">   
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>        
+        <a href="Personal page.html">Главная</a>
+        <a href="News Feed.html">Страница 1</a>
+        <a href="#">Страница 2</a> 
+    </div>
+    
+    <span style="font-size:30px;cursor:pointer" onclick="openNav()">☰ open</span>
+    
+    <script>
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+    }
+    
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+    }
+    </script>
+    
+    <!-- Заголовки и подзаголовки -->
+    <h1> 1</h1>
+    <h6>Подзаголовок 1</h6>
+    <p>Это обычный текст.</p>   
+    <span>Это текст внутри span элемента.</span>
+    <div>Это текст внутри div элемента.</div>
+    <em>Этот текст выделен курсивом.</em>
+    <div>
+        <strong>Этот текст выделен жирным шрифтом. Не переноситься на новую строку сам</strong>
+    </div>
+    <br/>
+    <!-- Нумерованный список -->
+    <ol>
+        <li>Пункт 1</li>
+        <li>Пункт 2</li>
+    </ol>
+    <!-- Ненумерованный список -->
+    <ul>
+        <li>Пункт A</li>
+        <li>Пункт B</li>
+        можно и так
+        но без переноса строки
+    </ul>
+    <!-- Изображение -->
+    <img src="scrinshot.png" alt="Альтернативный текст">
+    <!-- Видео -->
+    <video src="path_to_your_video.mp4" alt="No video"></video>
+    
+    <!-- Якорные теги -->
+    <a href="#section1">Перейти к разделу 1</a>
+    <!-- Навигация по странице -->
+    <nav>
+        <ul>
+            <li><a href="#section1">Раздел 1</a></li>
+            <li><a href="#section2">Раздел 2</a></li>
+            <li><a href="#section3">Раздел 3</a></li>
+        </ul>
+    </nav>
+    <!-- Навигация на другие страницы -->
+    <nav>
+        <ul>
+            <li><a href="page1.html">Страница 1</a></li>
+            <li><a href="page2.html">Страница 2</a></li>
+        </ul>
+    </nav>
+</body>
+</html>

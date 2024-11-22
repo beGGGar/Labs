@@ -1,0 +1,4 @@
+﻿  OpenMP_2.cpp
+D:\Study\LABS\Технологии параллельного программирования\OpenMP_2\OpenMP_2\OpenMP_2.cpp(7,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Study\LABS\Технологии параллельного программирования\OpenMP_2\OpenMP_2\OpenMP_2.cpp(17,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  OpenMP_2.vcxproj -> D:\Study\LABS\Технологии параллельного программирования\OpenMP_2\x64\Debug\OpenMP_2.exe

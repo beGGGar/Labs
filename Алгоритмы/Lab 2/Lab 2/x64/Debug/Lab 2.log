@@ -1,2 +1,2 @@
 ﻿  Lab 2.cpp
-  Lab 2.vcxproj -> D:\Study\LABS\Алгоритмы\Lab 2\x64\Debug\Lab 2.exe
+D:\Study\LABS\Алгоритмы\Lab 2\Lab 2\Lab 2.cpp(61): error C4716: LabExpression: должна возвращать значение

@@ -1,0 +1,5 @@
+﻿  OTIC_lab2.cpp
+D:\Study\LABS\ОТиК\OTIC_lab2\OTIC_lab2\OTIC_lab2.cpp(52,25): warning C4305: инициализация: усечение из "int" в "unsigned char"
+D:\Study\LABS\ОТиК\OTIC_lab2\OTIC_lab2\OTIC_lab2.cpp(52,27): warning C4309: инициализация: усечение константного значения
+D:\Study\LABS\ОТиК\OTIC_lab2\OTIC_lab2\OTIC_lab2.cpp(202,6): warning C4101: a: неиспользованная локальная переменная
+  OTIC_lab2.vcxproj -> D:\Study\LABS\ОТиК\OTIC_lab2\x64\Debug\OTIC_lab2.exe

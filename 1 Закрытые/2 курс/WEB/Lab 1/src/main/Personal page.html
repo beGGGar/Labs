@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Персона</title>
+    <link rel="stylesheet" type="text/css" href="/src/CSS/NavStyles.css">
+    
+</head>
+<body>
+    <header>
+        <h1>Профиль</h1>
+    </header>
+    <div id="nav">
+        <div id="mySidenav" class="sidenav">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>        
+            <a href="Personal page.html">Главная</a>
+            <a href="News Feed.html">Страница 1</a>
+            <a href="#">Страница 2</a> 
+        </div>
+        <script>
+            function openNav() {
+                document.getElementById("mySidenav").style.width = "250px";
+            }
+            
+            function closeNav() {
+                document.getElementById("mySidenav").style.width = "0";
+            }
+        </script>
+        <span style="font-size:30px;cursor:pointer" onclick="openNav()">☰ open</span>
+    </div>
+    <nav>
+        <ul>
+            <li><a href="#">Профиль</a></li>
+            <li><a href="#">История заказов</a></li>
+            <li><a href="#">Изменить пароль</a></li>
+        </ul>
+    </nav>
+
+    <!-- Контентная область -->
+    <main>
+        <!-- Здесь будет отображаться содержимое личного кабинета -->
+        <h2>Ваш профиль</h2>
+        <p>Здесь может быть информация о пользователе, например, имя, адрес электронной почты и т.д.</p>
+
+        <h2>История заказов</h2>
+        <!-- Список заказов -->
+
+        <h2>Изменить пароль</h2>
+        <form action="/change-password" method="post">
+            <label for="currentPassword">Текущий пароль</label>
+            <input type="password" id="currentPassword" name="currentPassword">
+
+            <label for="newPassword">Новый пароль</label>
+            <input type="password" id="newPassword" name="newPassword">
+
+            <label for="confirmNewPassword">Подтверждение нового пароля</label>
+            <input type="password" id="confirmNewPassword" name="confirmNewPassword">
+
+            <!-- Кнопка отправки формы -->
+            <button type="submit">Сохранить изменения</button>
+        </form>
+    </main>
+
+    <!-- Футер страницы -->
+    <footer>
+        <!-- Копирайт, контактная информация и т.д. -->
+    </footer>
+</body>
+</html>
